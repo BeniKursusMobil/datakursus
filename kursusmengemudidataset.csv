@@ -1,0 +1,11 @@
+ID_Siswa,Nama_Siswa,Tanggal_Pendaftaran,Jumlah _jam_pelatihan,status_kelulusan,Kelulusan_Tes_Theori
+1,Andi,1/15/2023,15,Lulus,85
+2,Budi,2/20/2023,20,Tidak Lulus,55
+3,Citra Dewi,3/5/2023,18,Lulus,78
+4,Dewi Lestari,4/10/2023,22,Lulus,88
+5,Eka Prasetyo,5/25/2023,10,Tidak Lulus,45
+6,Fajar Wibowo,6/1/2023,25,Lulus,90
+7,Gilang Saputra,7/12/2023,12,Lulus,75
+8,Hani Puspita,8/23/2023,30,Lulus,95
+9,Iwan Kurniawan,9/30/2023,14,Tidak Lulus,50
+10,Joko Susanto,10/15/2023,28,Lulus,92
